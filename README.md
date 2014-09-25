@@ -2,13 +2,14 @@
 
 ##Essai de définition
 
-J'attire votre attention sur le fait qu'un crevard (intergalactique de surcroît)
+J'attire votre attention sur le fait qu'un crevard® (intergalactique de surcroît)
 est une espèce noble, mobile et militante 
-à ne pas confondre avec un paresseux, un vulgaire parasite ou encore un simple radin.
+à ne pas confondre avec un paresseux, un vulgaire parasite 
+ou encore un simple radin.
 
 Le crevard s'ingénie à trouver des solutions pour se faciliter la vie, dépenser moins d'argent et changer dans son étroit périmêtre le cours des choses qui ne lui vont pas.
 Débouillard par nécessité, ingénieux par opportunisme, bidouilleur par esprit de défi, il révèle sa créativité aux moments propices que consistuent les fins de mois difficiles. 
-Sa gamme d'action étant extrêment variée tout en étant appliquée à la vie quotidenne,nous tenterons donc dans ce guide de donner un aperçu des ses habitudes, astuces et modes de vie.
+Sa gamme d'action étant extrêment variée dans l'étroit champ de sa vie quotidienne. Ce git a pour but de donner un paerçu des chemins de traverses empruntés par cette espèce ainsi qu'un aperçu de son mode de vie.
 
 Paresseux, indécis,escrocs ou radins à la petite semaine s'abstenir...
 
